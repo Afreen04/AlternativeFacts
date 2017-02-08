@@ -1,0 +1,16 @@
+GetHadithIntent a Hadith
+GetHadithIntent Hadith
+GetHadithIntent get me a Hadith
+GetHadithIntent tell me a Hadith
+GetHadithIntent get me a random Hadith
+GetHadithIntent tell me a random Hadith
+GetHadithIntent get me Hadith
+GetHadithIntent tell me Hadith
+GetHadithIntent get me random Hadith
+GetHadithIntent tell me random Hadith
+GetHadithIntent random Hadith
+
+
+goodbyeIntent goodbye
+goodbyeIntent bye
+goodbyeIntent bye bye
